@@ -1,8 +1,8 @@
 # Paper notes
-This repository contains my paper reading notes on deep learning and machine learning. It is inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes) and [Daniel Takeshi](https://github.com/DanielTakeshi/Paper_Notes). A minimalistic webpage generated with Github io can be found [here](https://patrick-llgc.github.io/Learning-Deep-Learning/).
+This repository contains my paper reading notes on deep learning and machine learning. It is inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes) and [Daniel Takeshi](https://github.com/DanielTakeshi/Paper_Notes). A minimalistic webpage generated with Github io can be found [here](https://sprinter1999.github.io/Learning-Deep-Learning/).
 
 ## About me
-My name is [Patrick Langechuan Liu](https://www.linkedin.com/in/patrick-llgc/). After about a decade of education and research in physics, I found my passion in deep learning and autonomous driving. Currently I am leading the development of perception features at [Xpeng Motors](https://en.xiaopeng.com/), a fast growing autonomous driving company.
+My name is Xuefen.
 
 
 ## What to read
