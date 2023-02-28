@@ -11,6 +11,20 @@ If you are new to deep learning in computer vision and don't know where to start
 
 Here is [a list of trustworthy sources of papers](trusty.md) in case I ran out of papers to read.
 
+## Since March, 2023
+<details>
+<summary>2023.3.1 Kalman Filter</summary>
+<pre><code>
+卡尔曼滤波（Kalman filtering）是一种利用线性系统状态方程，通过系统输入输出观测数据，对系统状态进行最优估计的算法。由于观测数据中包括系统中的噪声和干扰的影响，所以最优估计也可看作是滤波过程。
+</code></pre>
+</details>
+
+
+
+
+
+
+
 
 ## My Review Posts by Topics
 I regularly update [my blog in Toward Data Science](https://medium.com/@patrickllgc).
