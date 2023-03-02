@@ -20,6 +20,13 @@ Here is [a list of trustworthy sources of papers](trusty.md) in case I ran out o
 </details>
 
 
+<details>
+<summary>2023.3.2 联邦学习中的聚类论文列表</summary>
+<pre><code>
+See below: My Review Posts by Topics
+</code></pre>
+</details>
+
 
 
 
@@ -29,33 +36,17 @@ Here is [a list of trustworthy sources of papers](trusty.md) in case I ran out o
 ## My Review Posts by Topics
 I regularly update [my blog in Toward Data Science](https://medium.com/@patrickllgc).
 
-- [Monocular BEV Perception with Transformers in Autonomous Driving](https://towardsdatascience.com/monocular-bev-perception-with-transformers-in-autonomous-driving-c41e4a893944) ([related paper notes](topics/topic_transformers_bev.md))
-- [Illustrated Differences between MLP and Transformers for Tensor Reshaping in Deep Learning](https://towardsdatascience.com/illustrated-difference-between-mlp-and-transformers-for-tensor-reshaping-52569edaf89)
-- [Monocular 3D Lane Line Detection in Autonomous Driving](https://towardsdatascience.com/monocular-3d-lane-line-detection-in-autonomous-driving-4d7cdfabf3b6) ([related paper notes](topics/topic_3d_lld.md))
-- [Deep-Learning based Object detection in Crowded Scenes](https://towardsdatascience.com/deep-learning-based-object-detection-in-crowded-scenes-1c9fddbd7bc4) ([related paper notes](topics/topic_crowd_detection.md))
-- [Monocular Bird’s-Eye-View Semantic Segmentation for Autonomous Driving](https://towardsdatascience.com/monocular-birds-eye-view-semantic-segmentation-for-autonomous-driving-ee2f771afb59) ([related paper notes](topics/topic_bev_segmentation.md))
-- [Deep Learning in Mapping for Autonomous Driving](https://towardsdatascience.com/deep-learning-in-mapping-for-autonomous-driving-9e33ee951a44)
-- [Monocular Dynamic Object SLAM in Autonomous Driving](https://towardsdatascience.com/monocular-dynamic-object-slam-in-autonomous-driving-f12249052bf1)
-- [Monocular 3D Object Detection in Autonomous Driving — A Review](https://towardsdatascience.com/monocular-3d-object-detection-in-autonomous-driving-2476a3c7f57e)
-- [Self-supervised Keypoint Learning — A Review](https://towardsdatascience.com/self-supervised-keypoint-learning-aade18081fc3)
-- [Single Stage Instance Segmentation — A Review](https://towardsdatascience.com/single-stage-instance-segmentation-a-review-1eeb66e0cc49)
-- [Self-paced Multitask Learning — A Review](https://towardsdatascience.com/self-paced-multitask-learning-76c26e9532d0)
-- [Convolutional Neural Networks with Heterogeneous Metadata](https://towardsdatascience.com/convolutional-neural-networks-with-heterogeneous-metadata-2af9241218a9)
-- [Lifting 2D object detection to 3D in autonomous driving](https://towardsdatascience.com/geometric-reasoning-based-cuboid-generation-in-monocular-3d-object-detection-5ee2996270d1)
-- [Multimodal Regression](https://towardsdatascience.com/anchors-and-multi-bin-loss-for-multi-modal-target-regression-647ea1974617)
-- [Paper Reading in 2019](https://towardsdatascience.com/the-200-deep-learning-papers-i-read-in-2019-7fb7034f05f7?source=friends_link&sk=7628c5be39f876b2c05e43c13d0b48a3)
+- Clustering in Federated Learning ([related notes](topics/topic_clusterFL.md))
 
 ## 2023-02 (1)
 - [Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning](https://arxiv.org/abs/2211.04325) [[Notes](paper_notes/out_of_data.md)] [Epoch.ai industry report]
-- [Codex: Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) [[Notes](paper_notes/codex.md)] [OpenAI]
+
+  
 
 ## 2023-01 (1)
 - [PPGeo: Policy Pre-training for End-to-end Autonomous Driving via Self-supervised Geometric Modeling](https://arxiv.org/abs/2301.01006) [[Notes](paper_notes/ppgeo.md)] <kbd>ICLR 2023</kbd>
 - [nuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles](https://arxiv.org/abs/2106.11810) [[Notes](paper_notes/nuplan.md)]
-- [CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers](https://arxiv.org/abs/2207.02202) <kbd>CoRL 2022</kbd>
-- [BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision](https://arxiv.org/abs/2211.10439) [Jifeng Dai]
 - [Fast-BEV: Towards Real-time On-vehicle Bird’s-Eye View Perception](https://ml4ad.github.io/files/papers2022/Fast-BEV:%20Towards%20Real-time%20On-vehicle%20Bird's-Eye%20View%20Perception.pdf) <kbd>NeurIPS 2022</kbd>
-- [Traj++: Human Trajectory Forecasting in Crowds: A Deep Learning Perspective](https://arxiv.org/abs/2007.03639) <kbd>TITS 2021</kbd>
 - [Data Driven Prediction Architecture for Autonomous Driving and its Application on Apollo Platform](https://arxiv.org/abs/2006.06715) <kbd>IV 2020</kbd> [Baidu]
 - [THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling](https://arxiv.org/abs/2110.06607) <kbd>ICLR 2022</kbd>
 - [Learning Lane Graph Representations for Motion Forecasting](https://arxiv.org/abs/2007.13732) <kbd>ECCV 2020 oral</kbd>
